@@ -3,7 +3,6 @@
 Project Description:
 
 • Created an end-to-end NLP - machine learning pipeline to analyze artist-fan sentiment on social media to help unsigned musicians understand their audience better.
-![image](https://github.com/AKSHAYKUMARDHAR/NLP-Driven-Artist-Fan-Sentiment-Analysis/assets/145682253/dd290d0e-10c8-4304-90d3-b1324844fbf2)
 
 • Scraped over 195k social media comments for 6 target music artists and pre-processed data for modeling. 
 
