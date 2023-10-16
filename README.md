@@ -1,4 +1,4 @@
-# NLP-Driven-Artist-Fan-Sentiment-Analysis
+# NLP Driven Artist Fan Sentiment Analysis
 
 Project Description:
 
@@ -19,4 +19,5 @@ Project Description:
 • Recommended artists tailor content types and topics to specific fan types based on sentiment analysis and fan categorization.
 
 • This enabled data-driven recommendations on how artists can better resonate with fans through tailored content.
+
 
