@@ -3,10 +3,12 @@
 Project Description:
 
 • Created an end-to-end NLP - machine learning pipeline to analyze artist-fan sentiment on social media to help unsigned musicians understand their audience better.
+![image](https://github.com/AKSHAYKUMARDHAR/NLP-Driven-Artist-Fan-Sentiment-Analysis/assets/145682253/dd290d0e-10c8-4304-90d3-b1324844fbf2)
 
 • Scraped over 195k social media comments for 6 target music artists and pre-processed data for modeling. 
 
 • Developed LSTM and RoBERTa models, optimizing RoBERTa using contextual embedding to improve accuracy by 5% to 78%. 
+
 
 • Performed K-Means clustering to categorize artists' fanbases and quantify distribution across super, engaged and ambient fans types. 
 
@@ -19,6 +21,7 @@ Project Description:
 • Recommended artists tailor content types and topics to specific fan types based on sentiment analysis and fan categorization.
 
 • This enabled data-driven recommendations on how artists can better resonate with fans through tailored content.
+
 
 
 
