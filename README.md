@@ -1,4 +1,7 @@
 # NLP-Driven-Artist-Fan-Sentiment-Analysis
+
+Project Description:
+
 • Created an end-to-end NLP - machine learning pipeline to analyze artist-fan sentiment on social media to help unsigned musicians understand their audience better.
 
 • Scraped over 195k social media comments for 6 target music artists and pre-processed data for modeling. 
@@ -16,3 +19,4 @@
 • Recommended artists tailor content types and topics to specific fan types based on sentiment analysis and fan categorization.
 
 • This enabled data-driven recommendations on how artists can better resonate with fans through tailored content.
+
